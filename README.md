@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FireHalo
 
 🚀 **Project Overview**
@@ -59,3 +60,6 @@ This project uses a **Hybrid Guardian License**:
 Tracked by the Symbiote Ledger under Symbiote #001. Project metadata, contributions, and lifeform impact are logged via IPFS and optional chain notarization.
 
 ---
+=======
+# FireHalo
+>>>>>>> e947a7cd7d2268a9a04d5ad294928e2ae029f411
